@@ -1,1 +1,5 @@
-print("Login v2")
+<<<<<<< Updated upstream
+print("Login v3")
+=======
+print("Login v3")
+>>>>>>> Stashed changes
