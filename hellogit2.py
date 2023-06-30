@@ -1,2 +1,1 @@
-print("Hello Git 2")
-ç
+print("New Hello Git 2")
